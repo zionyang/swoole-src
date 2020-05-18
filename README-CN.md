@@ -1,5 +1,7 @@
 [English](./README.md) | 中文
 
+TEST WORD
+
 # Swoole
 
 [![Latest Version](https://img.shields.io/github/release/swoole/swoole-src.svg?style=flat-square)](https://github.com/swoole/swoole-src/releases)
